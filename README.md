@@ -9,4 +9,6 @@ To replicate the results reported in the manuscript, just download all these thr
 
 The real data for the two case studies are also included in the `main_RoBoT.R` file.
 
+The code is supposed to be run on Mac OS and was tested on Mac OS High Sierra version 10.13.6.
+
 Should you have any questions, please contact Tianjian Zhou at tjzhou@uchicago.edu.
